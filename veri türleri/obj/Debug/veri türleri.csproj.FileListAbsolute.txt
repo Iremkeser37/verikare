@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\veri türleri\veri türleri\bin\Debug\veri türleri.exe.config
+C:\Users\User\source\repos\veri türleri\veri türleri\bin\Debug\veri türleri.exe
+C:\Users\User\source\repos\veri türleri\veri türleri\bin\Debug\veri türleri.pdb
+C:\Users\User\source\repos\veri türleri\veri türleri\obj\Debug\veri türleri.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\veri türleri\veri türleri\obj\Debug\veri türleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\veri türleri\veri türleri\obj\Debug\veri_türleri.Form1.resources
+C:\Users\User\source\repos\veri türleri\veri türleri\obj\Debug\veri_türleri.Properties.Resources.resources
+C:\Users\User\source\repos\veri türleri\veri türleri\obj\Debug\veri türleri.csproj.GenerateResource.cache
+C:\Users\User\source\repos\veri türleri\veri türleri\obj\Debug\veri türleri.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\veri türleri\veri türleri\obj\Debug\veri türleri.exe
+C:\Users\User\source\repos\veri türleri\veri türleri\obj\Debug\veri türleri.pdb
